@@ -23,6 +23,7 @@ DetailTvShowsViewModelTest:
 
 
 Skenario Instrumentation/UI Testing Aplikasi Daftar Film yang dilakukan: 
+MainActivityTest:
 
 Menampilkan Data Film: 
   • Memastikan rv_film dalam keadaan tampil. 
