@@ -52,7 +52,7 @@ Membagikan data Film:
 Menampilkan data Serial TV: 
   • Memberi tindakan klik pada TabLayout dengan teks Serial TV. 
   • Memastikan rv_serial_tv dalam keadaan tampil. 
-  • Gulir rv_sserial_tv ke posisi information terakhir (Data ke 10). 
+  • Gulir rv_serial_tv ke posisi information terakhir (Data ke 10). 
 
 Menampilkan data Detail Serial TV: 
   • Memberi tindakan klik pada TabLayout dengan teks Serial TV. 
