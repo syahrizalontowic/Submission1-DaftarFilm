@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Daftar Film</string>
+    <string name="v_1_0">v. 1.0</string>
+    <string name="tab_film">Film</string>
+    <string name="tab_serial_tv">Serial TV</string>
+    <string name="daftar_film">DAFTAR FILM</string>
+    <string name="nama_film">Nama Film</string>
+    <string name="ringkasan">Kilasan Singkat</string>
+    <string name="waktu_rilis">Waktu Rilis</string>
+    <string name="share">Share</string>
+    <string name="nama_serial_tv">Nama Serial TV</string>
+    <string name="tahun">Tahun</string>
+    <string name="icon_tahun">Icon Tahun</string>
+    <string name="kategoris">Kategori :</string>
+    <string name="kategori_item">Kategori</string>
+    <string name="slogan">Slogan</string>
+    <string name="penilaian">Penilaian</string>
+    <string name="penilaian_item">Penilaian</string>
+    <string name="rilis_data_item">Data</string>
+    <string name="durasi">Durasi</string>
+    <string name="durasi_item">Durasi</string>
+    <string name="ringkasan_title">Kilasan Singkat</string>
+    <string name="produser_title">Produser</string>
+    <string name="orang">Orang</string>
+    <string name="app_title">Daftar Film</string>
+    <string name="judul_film">Judul Film</string>
+    <string name="kategori">Kategori</string>
+    <string name="share_judul_film">Share Film:</string>
+    <string name="detail_judul_film">Detail Film</string>
+    <string name="detail_judul_serial_tv">Detail Serial TV</string>
+</resources>
+
